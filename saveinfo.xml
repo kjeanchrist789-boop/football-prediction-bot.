@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<saveinfo>
+	<sync_info>
+		<devices active="1" total="1">
+			<device_sync id="empReV1eEB0FmybR8RtClx4H" last_seen="816713848.522320" model="iPhone 12 Pro Max" name="iPhone"></device_sync>
+		</devices>
+		<sync_issues last_seen="" total="0"></sync_issues>
+	</sync_info>
+	<header>
+		<version value="1.0"></version>
+		<hashtype value="Metro128"></hashtype>
+		<offlinemode value="N"></offlinemode>
+		<successsyncdatetime value="816713848.522320"></successsyncdatetime>
+		<successsyncdevicename value="iPhone"></successsyncdevicename>
+		<successsyncdevicemodel value="iPhone 12 Pro Max"></successsyncdevicemodel>
+		<successsyncdeviceid value="empReV1eEB0FmybR8RtClx4H"></successsyncdeviceid>
+	</header>
+	<save>
+		<datetime value="816713848.268981"></datetime>
+		<devicename value="iPhone"></devicename>
+		<devicemodel value="iPhone 12 Pro Max"></devicemodel>
+		<deviceid value="empReV1eEB0FmybR8RtClx4H"></deviceid>
+		<levelname value="M01: LA MORT D'UN ARTISTE"></levelname>
+		<files>
+			<file checksum="7c2827121f20e3152db18e7c6b8fd06c" path="/Profiles/christ/AutoSave.control"></file>
+			<file checksum="d09b48577d5ab282f162462897009517" path="/Profiles/christ/AutoSave.data"></file>
+			<file checksum="ced59569e7d9555d510620279f2ce26e" path="/Profiles/christ/AutoSaveInfo"></file>
+			<file checksum="bda8032602353c0978b85423c51d49e3" path="/Profiles/christ/AutoSaveInfoOld"></file>
+			<file checksum="7a2f0665d3a20bc68123497e8b83cf18" path="/Profiles/christ/AutoSaveOld.control"></file>
+			<file checksum="1ea8a5f6c9b6ba9cd1203f00e1ff548e" path="/Profiles/christ/AutoSaveOld.data"></file>
+			<file checksum="2696a2b81d5b32acfe9a968af57cb0a0" path="/Profiles/christ/Profile.pro"></file>
+		</files>
+	</save>
+</saveinfo>
